@@ -1,5 +1,5 @@
 # Big-Data-Project-EDA-on-10-Years-Transaction-Data-261.9-Million-rows-
-This data was 22.2 GB of CSV of 261.9 Million Rows, which was converted to Parquet data and performed ETL using Amazon Glue, used IAM for 
+This data was 22.2 GB of CSV of 261.9 Million Rows, which was converted to Parquet data and performed ETL using Amazon Glue, used IAM for S3 permissions and S3 bucket as storage purpose.
 
 Youtube AWS Glue for ETL : https://www.youtube.com/playlist?list=PLiAuSTZDuI_nu_ubQ0sNHCxoA_03sKdFq
 
